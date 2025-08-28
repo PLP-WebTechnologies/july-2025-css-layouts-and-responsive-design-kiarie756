@@ -1,0 +1,14 @@
+1. Normal document flow:
+a. block elements- elements that stretch the entire web page or display on your browser
+Always strat on a new line
+b. in-line elements- take as much space as they need: 
+e.g links, span, and also images
+
+2. Display property- shows how an element should display
+a. block = 
+b. inline = takes as much space sa they require
+c. inline-block = instructing the elements to behave like inline but you cannot change the length or width
+d. none = simply hiding the elements completely. Not visible on the browser
+e. flex = turns the container into a flexible layout
+f. read = turns the container into a read layout: rowsa and columns in a table
+g. float----it is outdated = shift/push elements to one side- right/left
